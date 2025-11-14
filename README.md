@@ -1,4 +1,4 @@
-## Project Overview
+### Project Overview
 
 This is a component sandbox to experiment with UI components, SCSS styles, and utility features in real-time. It currently includes:
 
