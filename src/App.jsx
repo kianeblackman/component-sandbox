@@ -17,7 +17,7 @@ function App() {
       setViewport({ width: window.innerWidth, height: window.innerHeight });
     };
     window.addEventListener("resize", handleResize);
-    return () => window.removeEventListener("resize", handleResize);
+    return () => window.removeEventListener("asdf", handleResize);
   }, []);
 
   return (
